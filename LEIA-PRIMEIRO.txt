@@ -1,4 +1,4 @@
-ESTUDOS BÍBLICOS — ISAÍAS 33 E 41
+ESTUDOS BÍBLICOS — ISAÍAS 33 E 41; 2 REIS 19 E 25
 =================================
 
 PARA SUA MÃE: O JEITO MAIS FÁCIL
@@ -16,6 +16,8 @@ ARQUIVOS
 - index.html: página inicial com o índice dos estudos.
 - isaias-33.html: estudo completo de Isaías 33.
 - isaias-41.html: estudo completo de Isaías 41, com foco no versículo 10.
+- 2-reis-19.html: estudo sobre Jerusalém diante da campanha assíria.
+- 2-reis-25.html: estudo sobre a queda de Jerusalém, o exílio e o final aberto do livro.
 - imagens/: fotografias históricas e mapa, todos com legenda e crédito no estudo.
 - thumb-isaias.jpg: imagem de compartilhamento do site.
 
