@@ -37,5 +37,8 @@ ESTRUTURA DO ESTUDO
 FORMATO PARA A BIBLIOTECA
 Produza uma página HTML responsiva, acessível e simples para uma leitora idosa com pouca intimidade com tecnologia. Use letras confortáveis, contraste alto, navegação evidente, botões de aumentar/diminuir fonte, imagens locais e legendas legíveis. Mantenha o mesmo padrão visual e os links internos da biblioteca. Evite revelar detalhes pessoais privados; prefira aplicações humanas gerais.
 
+CONFERÊNCIA DE COMPLETUDE E SINCRONIZAÇÃO
+Antes de concluir, compare o pedido e os materiais de referência com a página pronta. Não deixe de fora diagramas, imagens, tabelas, exemplos ou explicações que tenham sido prometidos; se uma figura não puder ser reutilizada, reconstrua-a como diagrama acessível e identifique-a como esquema. Confira se cada citação textual aponta para a passagem certa e se as fontes são identificáveis. Verifique uma a uma as cinco páginas, seus links entre estudos, imagens locais, textos alternativos, legendas e créditos. Atualize juntos o índice, as instruções e o pacote ZIP; o conteúdo do ZIP deve corresponder ao site publicado.
+
 CRITÉRIO FINAL
 Quero profundidade sem tornar a leitura pesada: ajude a pessoa a imaginar o mundo antigo, entender a construção do texto, acompanhar uma história coerente e refletir sem confundir evidência, fé e aplicação.

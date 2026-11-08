@@ -1,4 +1,4 @@
-ESTUDOS BÍBLICOS — ISAÍAS 33 E 41; 2 REIS 19 E 25; 1 ENOQUE
+ESTUDOS BÍBLICOS — CINCO ESTUDOS EM SEQUÊNCIA
 =================================
 
 PARA SUA MÃE: O JEITO MAIS FÁCIL
@@ -8,7 +8,7 @@ Não é preciso instalar aplicativo, criar conta ou baixar as imagens. O site ab
 
 PARA LER SEM INTERNET
 1. Envie estudos-biblicos-offline.zip pelo WhatsApp como Documento.
-2. No celular, toque no arquivo recebido e escolha Extrair ou Descompactar.
+2. No celular, toque no arquivo recebido e escolha Extrair ou Descompactar. Se essa opção não aparecer, peça ajuda para extrair o arquivo uma vez.
 3. Abra a pasta criada e toque em index.html.
 4. As imagens estão na pasta imagens. Mantenha a pasta imagens e todos os arquivos na mesma pasta.
 
@@ -28,11 +28,11 @@ As páginas têm letras grandes, contraste alto, leitura adaptada ao celular e b
 
 HOSPEDAGEM NA REDE WI-FI DE CASA (OPCIONAL)
 Este passo é para quem ajuda com o computador. O computador e o celular precisam estar no mesmo Wi-Fi, e o computador deve permanecer ligado.
-1. Extraia o ZIP para C:\Estudos-Isaias.
+1. Extraia o ZIP para C:\Estudos-Biblicos.
 2. Abra essa pasta no Explorador de Arquivos. Clique na barra de endereço, digite powershell e pressione Enter.
 3. Digite py -m http.server 8000 --bind 0.0.0.0 e pressione Enter. Se py não funcionar, tente python -m http.server 8000 --bind 0.0.0.0.
 4. No computador, veja o Endereço IPv4 em Configurações > Rede e Internet > Wi-Fi.
 5. No celular ligado ao mesmo Wi-Fi, abra o navegador e digite http://ENDERECO-IP:8000 (troque ENDERECO-IP pelo número encontrado).
 6. Toque em index.html. Para encerrar, volte à janela do PowerShell e pressione Ctrl+C.
 
-As imagens têm créditos e links de licença nas legendas. A distinção entre contexto histórico, interpretação bíblica e aplicação pessoal foi preservada. Comparações com psicologia e filosofia não são diagnósticos.
+As imagens históricas aparecem nos próprios estudos, com legenda, origem e licença quando disponível. O esquema de Isaías 41:10 está reproduzido como figura acessível dentro do estudo. A trilha permite passar de um estudo ao outro e voltar ao índice. Links para fontes externas e para o texto bíblico precisam de internet; as páginas e imagens incluídas no ZIP abrem sem conexão. Cada estudo diferencia contexto histórico, interpretação bíblica e aplicação pessoal. Comparações com psicologia e filosofia não são diagnósticos.
