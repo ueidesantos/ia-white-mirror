@@ -1,39 +1,34 @@
 ESTUDOS BÍBLICOS — ISAÍAS 33 E 41
 =================================
 
-CONTEÚDO
+PARA SUA MÃE: O JEITO MAIS FÁCIL
+Envie pelo WhatsApp o endereço do site e diga apenas: “Toque neste link para ler”.
+https://ueidesantos.github.io/ia-white-mirror/
+Não é preciso instalar aplicativo, criar conta ou baixar as imagens. O site abre no navegador do celular.
+
+PARA LER SEM INTERNET
+1. Envie estudos-isaias-offline.zip pelo WhatsApp como Documento.
+2. No celular, toque no arquivo recebido e escolha Extrair ou Descompactar.
+3. Abra a pasta criada e toque em index.html.
+4. As imagens estão na pasta imagens. Mantenha essa pasta e os arquivos HTML juntos.
+
+ARQUIVOS
 - index.html: página inicial com o índice dos estudos.
 - isaias-33.html: estudo completo de Isaías 33.
-- isaias-41.html: estudo completo de Isaías 41, com foco em 41:10.
+- isaias-41.html: estudo completo de Isaías 41, com foco no versículo 10.
+- imagens/: fotografias históricas e mapa, todos com legenda e crédito no estudo.
+- thumb-isaias.jpg: imagem de compartilhamento do site.
 
-LEITURA NO CELULAR (SEM INTERNET)
-1. Envie o arquivo estudos-isaias-offline.zip pelo WhatsApp como documento.
-2. No celular, toque no ZIP e escolha Extrair/Descompactar.
-3. Abra index.html com o navegador do celular (Chrome, Safari ou outro).
-4. Mantenha os três arquivos juntos na mesma pasta para os links funcionarem.
+ACESSIBILIDADE
+As páginas têm letras grandes, contraste alto, leitura adaptada ao celular e botões A− e A+ para ajustar o tamanho do texto. A preferência fica salva no navegador. O site publicado precisa de internet; o pacote ZIP funciona offline depois de extraído.
 
-Em alguns celulares, o navegador pode impedir links entre arquivos locais. Se isso ocorrer, abra diretamente isaias-33.html ou isaias-41.html pelo gerenciador de arquivos, ou use a opção de hospedagem local abaixo.
+HOSPEDAGEM NA REDE WI-FI DE CASA (OPCIONAL)
+Este passo é para quem ajuda com o computador. O computador e o celular precisam estar no mesmo Wi-Fi, e o computador deve permanecer ligado.
+1. Extraia o ZIP para C:\Estudos-Isaias.
+2. Abra essa pasta no Explorador de Arquivos. Clique na barra de endereço, digite powershell e pressione Enter.
+3. Digite py -m http.server 8000 --bind 0.0.0.0 e pressione Enter. Se py não funcionar, tente python -m http.server 8000 --bind 0.0.0.0.
+4. No computador, veja o Endereço IPv4 em Configurações > Rede e Internet > Wi-Fi.
+5. No celular ligado ao mesmo Wi-Fi, abra o navegador e digite http://ENDERECO-IP:8000 (troque ENDERECO-IP pelo número encontrado).
+6. Toque em index.html. Para encerrar, volte à janela do PowerShell e pressione Ctrl+C.
 
-ABRIR PELA REDE WI-FI DA CASA (WINDOWS)
-O computador e o celular precisam estar na mesma rede Wi-Fi. O computador deve permanecer ligado enquanto ela lê.
-
-1. No computador, extraia o ZIP para uma pasta simples, por exemplo:
-   C:\Estudos-Isaias
-2. Abra essa pasta no Explorador de Arquivos.
-3. Clique na barra de endereço da pasta, digite powershell e pressione Enter.
-4. Na janela que abrir, copie e execute:
-   py -m http.server 8000 --bind 0.0.0.0
-   Se o comando py não funcionar, tente:
-   python -m http.server 8000 --bind 0.0.0.0
-5. Descubra o endereço IP local do computador: abra Configurações > Rede e Internet > Wi-Fi > (rede conectada) e procure “Endereço IPv4”. Ele costuma começar com 192.168.x.x ou 10.x.x.x.
-6. No celular conectado ao mesmo Wi-Fi, abra o navegador e digite:
-   http://ENDERECO-IP-DO-COMPUTADOR:8000
-   Exemplo: http://192.168.1.25:8000
-7. Toque em index.html. Para parar o servidor, volte à janela do PowerShell e pressione Ctrl+C.
-
-Se o Windows perguntar se deseja permitir acesso pela rede privada, permita na rede doméstica. Não encaminhe portas do roteador para a internet; este guia destina-se apenas à rede local.
-
-LEITURA E ACESSIBILIDADE
-- Os botões A− e A+ diminuem/aumentam as letras; a escolha fica salva no mesmo navegador.
-- Os arquivos não carregam fontes, imagens ou bibliotecas da internet e funcionam offline.
-- O texto separa contexto histórico, interpretação bíblica e aplicação atual. Datas e hipóteses são aproximadas onde há debate.
+As imagens têm créditos e links de licença nas legendas. A distinção entre contexto histórico, interpretação bíblica e aplicação pessoal foi preservada. Comparações com psicologia e filosofia não são diagnósticos.
