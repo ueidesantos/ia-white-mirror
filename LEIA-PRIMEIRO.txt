@@ -1,38 +1,35 @@
-ESTUDOS BÍBLICOS — CINCO ESTUDOS EM SEQUÊNCIA
-=================================
+ESTUDOS BÍBLICOS — SEIS ESTUDOS EM SEQUÊNCIA
+===========================================
 
 PARA SUA MÃE: O JEITO MAIS FÁCIL
 Envie pelo WhatsApp o endereço do site e diga apenas: “Toque neste link para ler”.
 https://ueidesantos.github.io/ia-white-mirror/
-Não é preciso instalar aplicativo, criar conta ou baixar as imagens. O site abre no navegador do celular.
+Não é preciso instalar aplicativo, criar conta ou baixar imagens. O site abre no navegador do celular.
 
 PARA LER SEM INTERNET
-1. Envie estudos-biblicos-offline.zip pelo WhatsApp como Documento.
-2. No celular, toque no arquivo recebido e escolha Extrair ou Descompactar. Se essa opção não aparecer, peça ajuda para extrair o arquivo uma vez.
-3. Abra a pasta criada e toque em index.html.
-4. As imagens estão na pasta imagens. Mantenha a pasta imagens e todos os arquivos na mesma pasta.
+Envie estudos-biblicos-offline.zip pelo WhatsApp como Documento. Depois de baixar, toque no ZIP e escolha Extrair ou Descompactar. Abra a pasta criada e toque em index.html. As imagens ficam na pasta imagens; mantenha-a junto dos arquivos HTML.
 
-ARQUIVOS
-- index.html: página inicial com o índice dos estudos.
-- isaias-33.html: estudo completo de Isaías 33.
-- isaias-41.html: estudo completo de Isaías 41, com foco no versículo 10.
-- 2-reis-19.html: estudo sobre Jerusalém diante da campanha assíria.
-- 2-reis-25.html: estudo sobre a queda de Jerusalém, o exílio e o final aberto do livro.
-- 1-enoque.html: estudo histórico e literário de 1 Enoque.
-- PROMPT-MESTRE-ESTUDOS.txt: prompt reutilizável para criar e sincronizar estudos.
-- imagens/: fotografias históricas e mapa, todos com legenda e crédito no estudo.
-- thumb-isaias.jpg: imagem de compartilhamento do site.
+ESTUDOS INCLUÍDOS
+- index.html: página inicial com o índice.
+- isaias-33.html: Isaías 33.
+- isaias-41.html: Isaías 41, com foco no versículo 10.
+- 2-reis-19.html: Jerusalém diante da ameaça assíria.
+- 2-reis-25.html: queda de Jerusalém, exílio e esperança.
+- 1-enoque.html: história e literatura de 1 Enoque.
+- 2-meqabyan.html: obra da tradição etíope, distinta de 2 Macabeus.
+- imagens/: imagens históricas reais com legendas, fontes e créditos.
+- PROMPT-MESTRE-ESTUDOS.txt: prompt para criar e sincronizar estudos.
 
 ACESSIBILIDADE
-As páginas têm letras grandes, contraste alto, leitura adaptada ao celular e botões A− e A+ para ajustar o tamanho do texto. A preferência fica salva no navegador. O site publicado precisa de internet; o pacote ZIP funciona offline depois de extraído.
+Letras grandes, contraste alto, adaptação à tela do celular e botões A− e A+ para ajustar o texto. Os estudos e imagens do ZIP abrem sem internet; links externos precisam de conexão.
 
-HOSPEDAGEM NA REDE WI-FI DE CASA (OPCIONAL)
-Este passo é para quem ajuda com o computador. O computador e o celular precisam estar no mesmo Wi-Fi, e o computador deve permanecer ligado.
+HOSPEDAGEM NA REDE WI-FI DE CASA (PARA QUEM AJUDA COM O COMPUTADOR)
+O computador e o celular precisam estar no mesmo Wi-Fi, e o computador deve ficar ligado.
 1. Extraia o ZIP para C:\Estudos-Biblicos.
 2. Abra essa pasta no Explorador de Arquivos. Clique na barra de endereço, digite powershell e pressione Enter.
 3. Digite py -m http.server 8000 --bind 0.0.0.0 e pressione Enter. Se py não funcionar, tente python -m http.server 8000 --bind 0.0.0.0.
 4. No computador, veja o Endereço IPv4 em Configurações > Rede e Internet > Wi-Fi.
-5. No celular ligado ao mesmo Wi-Fi, abra o navegador e digite http://ENDERECO-IP:8000 (troque ENDERECO-IP pelo número encontrado).
+5. No celular conectado ao mesmo Wi-Fi, abra o navegador e digite http://ENDERECO-IP:8000 (substitua pelo número encontrado).
 6. Toque em index.html. Para encerrar, volte à janela do PowerShell e pressione Ctrl+C.
 
-As imagens históricas aparecem nos próprios estudos, com legenda, origem e licença quando disponível. O esquema de Isaías 41:10 está reproduzido como figura acessível dentro do estudo. A trilha permite passar de um estudo ao outro e voltar ao índice. Links para fontes externas e para o texto bíblico precisam de internet; as páginas e imagens incluídas no ZIP abrem sem conexão. Cada estudo diferencia contexto histórico, interpretação bíblica e aplicação pessoal. Comparações com psicologia e filosofia não são diagnósticos.
+Cada estudo distingue contexto histórico, interpretação bíblica e aplicação pessoal. As imagens são objetos históricos contextualizadores e não são apresentadas como prova de acontecimentos narrados quando essa identificação não existe.
