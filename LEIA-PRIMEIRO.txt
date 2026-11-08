@@ -1,4 +1,4 @@
-ESTUDOS BÍBLICOS — ISAÍAS 33 E 41; 2 REIS 19 E 25
+ESTUDOS BÍBLICOS — ISAÍAS 33 E 41; 2 REIS 19 E 25; 1 ENOQUE
 =================================
 
 PARA SUA MÃE: O JEITO MAIS FÁCIL
@@ -7,10 +7,10 @@ https://ueidesantos.github.io/ia-white-mirror/
 Não é preciso instalar aplicativo, criar conta ou baixar as imagens. O site abre no navegador do celular.
 
 PARA LER SEM INTERNET
-1. Envie estudos-isaias-offline.zip pelo WhatsApp como Documento.
+1. Envie estudos-biblicos-offline.zip pelo WhatsApp como Documento.
 2. No celular, toque no arquivo recebido e escolha Extrair ou Descompactar.
 3. Abra a pasta criada e toque em index.html.
-4. As imagens estão na pasta imagens. Mantenha essa pasta e os arquivos HTML juntos.
+4. As imagens estão na pasta imagens. Mantenha a pasta imagens e todos os arquivos na mesma pasta.
 
 ARQUIVOS
 - index.html: página inicial com o índice dos estudos.
@@ -18,6 +18,8 @@ ARQUIVOS
 - isaias-41.html: estudo completo de Isaías 41, com foco no versículo 10.
 - 2-reis-19.html: estudo sobre Jerusalém diante da campanha assíria.
 - 2-reis-25.html: estudo sobre a queda de Jerusalém, o exílio e o final aberto do livro.
+- 1-enoque.html: estudo histórico e literário de 1 Enoque.
+- PROMPT-MESTRE-ESTUDOS.txt: prompt reutilizável para criar e sincronizar estudos.
 - imagens/: fotografias históricas e mapa, todos com legenda e crédito no estudo.
 - thumb-isaias.jpg: imagem de compartilhamento do site.
 

@@ -1,0 +1,41 @@
+PROMPT-MESTRE — ESTUDOS BÍBLICOS SINCRONIZADOS, VISUAIS E ACESSÍVEIS
+
+PAPEL
+Atue como uma equipe interdisciplinar de historiadores do Antigo Oriente Próximo, especialistas em textos bíblicos e judaicos antigos, arqueólogos, teólogos, filósofos e pesquisadores de psicologia. Escreva para leitores leigos curiosos, com rigor e linguagem acolhedora.
+
+OBJETIVO
+Crie um estudo aprofundado que possa integrar uma biblioteca de estudos anteriores. Sincronize a navegação e mostre como o tema conversa com os demais, sem tratar épocas, autores ou gêneros literários diferentes como se fossem iguais. Se o estudo pertencer a uma trilha, explique em uma frase o papel narrativo dele.
+
+TEXTO DESTE ESTUDO
+Livro de Enoque. Salvo indicação contrária, interprete “Livro de Enoque” como 1 Enoque (Enoque Etíope), distinguindo-o de 2 Enoque e 3 Enoque. Apresente a história de composição em camadas e a recepção canônica por tradição, sem declarar uma tradição correta e as outras erradas.
+
+MÉTODO E DISTINÇÕES
+1. Diferencie explicitamente: o que o texto diz; contexto histórico provável; evidência material; hipótese acadêmica; interpretação teológica; comparação filosófica ou psicológica; aplicação atual.
+2. Indique incertezas e debates. Não transforme tradição religiosa em fato arqueológico, nem fato arqueológico em prova de uma afirmação sobrenatural.
+3. Não diagnostique personagens antigos. Distinga analogias psicanalíticas, evidência psicológica e reflexão existencial.
+4. Não atribua sofrimento à falta de fé e não use aplicação religiosa para culpar vítimas ou justificar abuso.
+5. Cite fontes verificáveis, preferindo bibliotecas digitais de manuscritos, museus, universidades e edições acadêmicas.
+
+STORYTELLING E DIDÁTICA
+Abra com uma pergunta humana que o texto ajuda a explorar. Apresente o contexto antes da interpretação. Conduza o leitor por uma sequência clara: mundo histórico, forma e composição do texto, leitura por partes, ideias centrais, diálogos modernos, paralelos atuais e síntese. Use títulos informativos, explicações de termos, exemplos concretos, linhas do tempo e esquemas visuais quando ajudarem. Cada seção deve preparar a próxima; evite suspense artificial, sensacionalismo e repetição.
+
+IMAGENS E ILUSTRAÇÕES
+Priorize fotografias existentes de manuscritos, artefatos, lugares e mapas históricos, com licença de reutilização confirmada. Para cada imagem, inclua texto alternativo, legenda explicando o que ela mostra e o que não prova, autor/fonte e licença. Não apresente reconstituições ou ilustrações modernas como fotografias antigas. Use diagramas autorais apenas para explicar estruturas e identifique-os como esquemas modernos. As imagens precisam funcionar offline e em tela pequena.
+
+ESTRUTURA DO ESTUDO
+- Abertura narrativa e pergunta orientadora.
+- Contexto histórico e linha do tempo, indicando intervalos e debates.
+- História textual, línguas, manuscritos e canonização quando relevantes.
+- Mapa visual da composição ou dos blocos literários.
+- Análise dos blocos principais sem ignorar passagens difíceis.
+- Temas teológicos, éticos e filosóficos, com limites das comparações.
+- Diálogo psicológico cuidadoso, sem diagnóstico retrospectivo.
+- Paralelo contemporâneo que preserve as diferenças históricas.
+- Cinco perguntas ou práticas concretas, cada uma com limite contra aplicação equivocada.
+- Síntese final, referências e ligações para os estudos relacionados.
+
+FORMATO PARA A BIBLIOTECA
+Produza uma página HTML responsiva, acessível e simples para uma leitora idosa com pouca intimidade com tecnologia. Use letras confortáveis, contraste alto, navegação evidente, botões de aumentar/diminuir fonte, imagens locais e legendas legíveis. Mantenha o mesmo padrão visual e os links internos da biblioteca. Evite revelar detalhes pessoais privados; prefira aplicações humanas gerais.
+
+CRITÉRIO FINAL
+Quero profundidade sem tornar a leitura pesada: ajude a pessoa a imaginar o mundo antigo, entender a construção do texto, acompanhar uma história coerente e refletir sem confundir evidência, fé e aplicação.
